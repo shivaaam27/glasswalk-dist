@@ -3,41 +3,25 @@
   "identifier": "tz.co.oracle.glasswalk.source",
   "subtitle": "Your personal walking tracker.",
   "iconURL": "https://raw.githubusercontent.com/shivaaam27/glasswalk-dist/main/icon.png",
-  "tintColor": "4ADE80",
+  "tintColor": "3ECF78",
   "apps": [
     {
       "name": "GlassWalk",
       "bundleIdentifier": "tz.co.oracle.glasswalk",
       "developerName": "shivaaam27",
       "subtitle": "Liquid-glass walking tracker.",
-      "localizedDescription": "A beautiful walking tracker that uses your iPhone's real sensors - accurate steps, GPS route and pace, a live map that follows you, and post-walk insights. All data stays on your device.",
+      "localizedDescription": "A beautiful walking tracker using your iPhone's real sensors - accurate steps, GPS route, live map, weather, streaks and insights. All data stays on your device.",
       "iconURL": "https://raw.githubusercontent.com/shivaaam27/glasswalk-dist/main/icon.png",
-      "tintColor": "4ADE80",
+      "tintColor": "3ECF78",
       "category": "healthcare-fitness",
       "versions": [
-        {
-          "version": "1.0.1",
-          "date": "2026-07-09T00:00:00Z",
-          "localizedDescription": "Adds calories and elevation gain to your walk report, plus polish.",
-          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
-          "size": 1074357,
-          "minOSVersion": "15.0"
-        }
+        { "version": "1.0.2", "date": "2026-07-09T18:00:00Z", "localizedDescription": "New Home dashboard with live weather, goal rings, streaks and living widgets.", "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.2/App.ipa", "size": 1080824, "minOSVersion": "15.0" }
       ],
-      "version": "1.0.1",
-      "versionDate": "2026-07-09T00:00:00Z",
-      "versionDescription": "Adds calories and elevation gain to your walk report, plus polish.",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
-      "size": 1074357,
-      "minOSVersion": "15.0",
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSMotionUsageDescription": "Counts your steps.",
-          "NSLocationWhenInUseUsageDescription": "Maps your walking route.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Keeps tracking with the screen off."
-        }
-      }
+      "version": "1.0.2",
+      "versionDate": "2026-07-09T18:00:00Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.2/App.ipa",
+      "size": 1080824,
+      "appPermissions": { "entitlements": [], "privacy": { "NSMotionUsageDescription": "Counts your steps.", "NSLocationWhenInUseUsageDescription": "Maps your route.", "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off." } }
     }
   ]
 }
