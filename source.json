@@ -16,6 +16,14 @@
       "category": "healthcare-fitness",
       "versions": [
         {
+          "version": "1.1.1",
+          "date": "2026-07-09T23:40:00Z",
+          "localizedDescription": "Fixes: deliberate walk start, live map tracking, accuracy ring at every zoom, real pace. New: beautiful Walk Report, Insights with trends and records, automatic on-device backup.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.1.1/App.ipa",
+          "size": 1218406,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.1.0",
           "date": "2026-07-09T20:30:00Z",
           "localizedDescription": "All-new Sunset Instrument design: amber dashboard, immersive Live Walk map with honest GPS accuracy ring, one-tap Walk button.",
@@ -32,10 +40,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.1.0",
-      "versionDate": "2026-07-09T20:30:00Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.1.0/App.ipa",
-      "size": 1083250,
+      "version": "1.1.1",
+      "versionDate": "2026-07-09T23:40:00Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.1.1/App.ipa",
+      "size": 1218406,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -44,7 +52,7 @@
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off."
         }
       },
-      "versionDescription": "All-new Sunset Instrument design: amber dashboard, immersive Live Walk map with honest GPS accuracy ring, one-tap Walk button."
+      "versionDescription": "Fixes: deliberate walk start, live map tracking, accuracy ring at every zoom, real pace. New: beautiful Walk Report, Insights with trends and records, automatic on-device backup."
     }
   ]
 }
