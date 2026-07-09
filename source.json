@@ -15,18 +15,18 @@
       "tintColor": "4ADE80",
       "category": "healthcare-fitness",
       "screenshotURLs": [],
-      "version": "1.0.1",
+      "version": "1.0",
       "versionDate": "2026-07-09",
       "versionDescription": "Live map location that follows you, plus compass heading on the route map.",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0/App.ipa",
       "size": 1073927,
       "minOSVersion": "15.0",
       "versions": [
         {
-          "version": "1.0.1",
+          "version": "1.0",
           "date": "2026-07-09",
           "localizedDescription": "Live map location that follows you, plus compass heading on the route map.",
-          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0/App.ipa",
           "size": 1073927,
           "minOSVersion": "15.0"
         }
