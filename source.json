@@ -14,28 +14,30 @@
       "iconURL": "https://raw.githubusercontent.com/shivaaam27/glasswalk-dist/main/icon.png",
       "tintColor": "4ADE80",
       "category": "healthcare-fitness",
-      "screenshotURLs": [],
-      "version": "1.0.1",
-      "versionDate": "2026-07-09",
-      "versionDescription": "Adds calories and elevation gain to your walk report, plus polish.",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
-      "size": 1074357,
-      "minOSVersion": "15.0",
       "versions": [
         {
           "version": "1.0.1",
-          "date": "2026-07-09",
+          "date": "2026-07-09T00:00:00Z",
           "localizedDescription": "Adds calories and elevation gain to your walk report, plus polish.",
           "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
           "size": 1074357,
           "minOSVersion": "15.0"
         }
       ],
-      "appPermissions": { "entitlements": [], "privacy": {
-        "NSMotionUsageDescription": "Counts your steps.",
-        "NSLocationWhenInUseUsageDescription": "Maps your walking route.",
-        "NSLocationAlwaysAndWhenInUseUsageDescription": "Keeps tracking with the screen off."
-      } }
+      "version": "1.0.1",
+      "versionDate": "2026-07-09T00:00:00Z",
+      "versionDescription": "Adds calories and elevation gain to your walk report, plus polish.",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
+      "size": 1074357,
+      "minOSVersion": "15.0",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMotionUsageDescription": "Counts your steps.",
+          "NSLocationWhenInUseUsageDescription": "Maps your walking route.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Keeps tracking with the screen off."
+        }
+      }
     }
   ]
 }
