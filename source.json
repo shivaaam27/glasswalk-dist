@@ -15,13 +15,36 @@
       "tintColor": "3ECF78",
       "category": "healthcare-fitness",
       "versions": [
-        { "version": "1.0.2", "date": "2026-07-09T18:00:00Z", "localizedDescription": "New Home dashboard with live weather, goal rings, streaks and living widgets.", "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.2/App.ipa", "size": 1080824, "minOSVersion": "15.0" }
+        {
+          "version": "1.1.0",
+          "date": "2026-07-09T20:30:00Z",
+          "localizedDescription": "All-new Sunset Instrument design: amber dashboard, immersive Live Walk map with honest GPS accuracy ring, one-tap Walk button.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.1.0/App.ipa",
+          "size": 1083250,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.2",
+          "date": "2026-07-09T18:00:00Z",
+          "localizedDescription": "New Home dashboard with live weather, goal rings, streaks and living widgets.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.2/App.ipa",
+          "size": 1080824,
+          "minOSVersion": "15.0"
+        }
       ],
-      "version": "1.0.2",
-      "versionDate": "2026-07-09T18:00:00Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.2/App.ipa",
-      "size": 1080824,
-      "appPermissions": { "entitlements": [], "privacy": { "NSMotionUsageDescription": "Counts your steps.", "NSLocationWhenInUseUsageDescription": "Maps your route.", "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off." } }
+      "version": "1.1.0",
+      "versionDate": "2026-07-09T20:30:00Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.1.0/App.ipa",
+      "size": 1083250,
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMotionUsageDescription": "Counts your steps.",
+          "NSLocationWhenInUseUsageDescription": "Maps your route.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off."
+        }
+      },
+      "versionDescription": "All-new Sunset Instrument design: amber dashboard, immersive Live Walk map with honest GPS accuracy ring, one-tap Walk button."
     }
   ]
 }
