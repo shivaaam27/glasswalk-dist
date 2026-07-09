@@ -10,35 +10,32 @@
       "bundleIdentifier": "tz.co.oracle.glasswalk",
       "developerName": "shivaaam27",
       "subtitle": "Liquid-glass walking tracker.",
-      "localizedDescription": "A beautiful walking tracker that uses your iPhone's real sensors — accurate steps, GPS route and pace, a live map that follows you, and post-walk insights. All data stays on your device.",
+      "localizedDescription": "A beautiful walking tracker that uses your iPhone's real sensors - accurate steps, GPS route and pace, a live map that follows you, and post-walk insights. All data stays on your device.",
       "iconURL": "https://raw.githubusercontent.com/shivaaam27/glasswalk-dist/main/icon.png",
       "tintColor": "4ADE80",
       "category": "healthcare-fitness",
       "screenshotURLs": [],
-      "version": "1.0",
+      "version": "1.0.1",
       "versionDate": "2026-07-09",
-      "versionDescription": "Live map location that follows you, plus compass heading on the route map.",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0/App.ipa",
-      "size": 1073927,
+      "versionDescription": "Adds calories and elevation gain to your walk report, plus polish.",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
+      "size": 1074357,
       "minOSVersion": "15.0",
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.0.1",
           "date": "2026-07-09",
-          "localizedDescription": "Live map location that follows you, plus compass heading on the route map.",
-          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0/App.ipa",
-          "size": 1073927,
+          "localizedDescription": "Adds calories and elevation gain to your walk report, plus polish.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.0.1/App.ipa",
+          "size": 1074357,
           "minOSVersion": "15.0"
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSMotionUsageDescription": "Counts your steps.",
-          "NSLocationWhenInUseUsageDescription": "Maps your walking route.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Keeps tracking with the screen off."
-        }
-      }
+      "appPermissions": { "entitlements": [], "privacy": {
+        "NSMotionUsageDescription": "Counts your steps.",
+        "NSLocationWhenInUseUsageDescription": "Maps your walking route.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Keeps tracking with the screen off."
+      } }
     }
   ]
 }
