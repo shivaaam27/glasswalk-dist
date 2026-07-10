@@ -16,6 +16,14 @@
       "category": "healthcare-fitness",
       "versions": [
         {
+          "version": "1.4.2",
+          "date": "2026-07-10T10:40:00Z",
+          "localizedDescription": "Mobility: if connecting to Apple Health fails, the exact error is now shown on screen, and a Reconnect Apple Health button was added at the bottom of the Mobility panel.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.4.2/App.ipa",
+          "size": 1318041,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.4.1",
           "date": "2026-07-10T09:40:00Z",
           "localizedDescription": "Fixes Apple Health connection: the permission sheet now appears and your mobility data flows in. Update, open Insights > Mobility and tap Connect Apple Health.",
@@ -80,10 +88,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.4.1",
-      "versionDate": "2026-07-10T09:40:00Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.4.1/App.ipa",
-      "size": 1317834,
+      "version": "1.4.2",
+      "versionDate": "2026-07-10T10:40:00Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.4.2/App.ipa",
+      "size": 1318041,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
