@@ -16,6 +16,14 @@
       "category": "healthcare-fitness",
       "versions": [
         {
+          "version": "1.2.0",
+          "date": "2026-07-10T00:15:00Z",
+          "localizedDescription": "Live Walk overhaul: GPS is warm from app launch so your location is pinned instantly, no more black screen on start, accuracy ring stays locked to your position at every zoom, the puck now rotates with your compass, and a stuck GPS search can always be exited. New: Profile tab with body details, goals, units, export and backup restore.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.2.0/App.ipa",
+          "size": 1222822,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.1.1",
           "date": "2026-07-09T23:40:00Z",
           "localizedDescription": "Fixes: deliberate walk start, live map tracking, accuracy ring at every zoom, real pace. New: beautiful Walk Report, Insights with trends and records, automatic on-device backup.",
@@ -40,10 +48,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.1.1",
-      "versionDate": "2026-07-09T23:40:00Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.1.1/App.ipa",
-      "size": 1218406,
+      "version": "1.2.0",
+      "versionDate": "2026-07-10T00:15:00Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.2.0/App.ipa",
+      "size": 1222822,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -52,7 +60,7 @@
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off."
         }
       },
-      "versionDescription": "Fixes: deliberate walk start, live map tracking, accuracy ring at every zoom, real pace. New: beautiful Walk Report, Insights with trends and records, automatic on-device backup."
+      "versionDescription": "Live Walk overhaul: GPS is warm from app launch so your location is pinned instantly, no more black screen on start, accuracy ring stays locked to your position at every zoom, the puck now rotates with your compass, and a stuck GPS search can always be exited. New: Profile tab with body details, goals, units, export and backup restore."
     }
   ]
 }
