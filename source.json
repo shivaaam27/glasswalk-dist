@@ -16,6 +16,14 @@
       "category": "healthcare-fitness",
       "versions": [
         {
+          "version": "1.4.1",
+          "date": "2026-07-10T09:40:00Z",
+          "localizedDescription": "Fixes Apple Health connection: the permission sheet now appears and your mobility data flows in. Update, open Insights > Mobility and tap Connect Apple Health.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.4.1/App.ipa",
+          "size": 1317834,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.4.0",
           "date": "2026-07-10T08:30:00Z",
           "localizedDescription": "Apple Health Mobility. A new Mobility panel reads the gait metrics your iPhone already measures: walking steadiness with Apple's OK/Low/Very Low bands, walking speed, step length, double support, asymmetry, six-minute-walk estimate and stair speeds — months of history appear the moment you connect. Read-only, per-metric permission, your data never leaves the device. Entry tile in Insights.",
@@ -72,10 +80,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.4.0",
-      "versionDate": "2026-07-10T08:30:00Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.4.0/App.ipa",
-      "size": 1273927,
+      "version": "1.4.1",
+      "versionDate": "2026-07-10T09:40:00Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.4.1/App.ipa",
+      "size": 1317834,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
