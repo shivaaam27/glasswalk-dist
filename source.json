@@ -16,6 +16,14 @@
       "category": "healthcare-fitness",
       "versions": [
         {
+          "version": "1.2.1",
+          "date": "2026-07-10T01:30:00Z",
+          "localizedDescription": "Walk tracking fix: distance now accumulates on slow walks (it could stay at 0 before). New: real elevation and climb in the live HUD, compass heading readout, clearer cadence labels, YOU marker on the pace ruler.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.2.1/App.ipa",
+          "size": 1223021,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.2.0",
           "date": "2026-07-10T00:15:00Z",
           "localizedDescription": "Live Walk overhaul: GPS is warm from app launch so your location is pinned instantly, no more black screen on start, accuracy ring stays locked to your position at every zoom, the puck now rotates with your compass, and a stuck GPS search can always be exited. New: Profile tab with body details, goals, units, export and backup restore.",
@@ -48,10 +56,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.2.0",
-      "versionDate": "2026-07-10T00:15:00Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.2.0/App.ipa",
-      "size": 1222822,
+      "version": "1.2.1",
+      "versionDate": "2026-07-10T01:30:00Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.2.1/App.ipa",
+      "size": 1223021,
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -60,7 +68,7 @@
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off."
         }
       },
-      "versionDescription": "Live Walk overhaul: GPS is warm from app launch so your location is pinned instantly, no more black screen on start, accuracy ring stays locked to your position at every zoom, the puck now rotates with your compass, and a stuck GPS search can always be exited. New: Profile tab with body details, goals, units, export and backup restore."
+      "versionDescription": "Walk tracking fix: distance now accumulates on slow walks (it could stay at 0 before). New: real elevation and climb in the live HUD, compass heading readout, clearer cadence labels, YOU marker on the pace ruler."
     }
   ]
 }
