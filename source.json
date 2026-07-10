@@ -93,7 +93,7 @@
       "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.4.2/App.ipa",
       "size": 1318041,
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": ["com.apple.developer.healthkit"],
         "privacy": {
           "NSMotionUsageDescription": "Counts your steps.",
           "NSLocationWhenInUseUsageDescription": "Maps your route.",
