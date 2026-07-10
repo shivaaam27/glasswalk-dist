@@ -81,8 +81,7 @@
         "privacy": {
           "NSMotionUsageDescription": "Counts your steps.",
           "NSLocationWhenInUseUsageDescription": "Maps your route.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off.",
-          "NSHealthShareUsageDescription": "Reads your walking metrics from Apple Health."
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off."
         }
       },
       "versionDescription": "Apple Health Mobility. A new Mobility panel reads the gait metrics your iPhone already measures: walking steadiness with Apple's OK/Low/Very Low bands, walking speed, step length, double support, asymmetry, six-minute-walk estimate and stair speeds — months of history appear the moment you connect. Read-only, per-metric permission, your data never leaves the device. Entry tile in Insights."
