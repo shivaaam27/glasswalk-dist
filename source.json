@@ -16,6 +16,14 @@
       "category": "healthcare-fitness",
       "versions": [
         {
+          "version": "1.5.0",
+          "date": "2026-07-11T12:43:03Z",
+          "localizedDescription": "Map intelligence: frequented-streets heatmap, route replay with pace-tinted playback, and auto route-matching that recognizes a repeated loop. Deeper intelligence: weather-vs-performance, personal distance forecast, monthly wrap card, and streak-reminder notifications (with an in-app explainer before the permission prompt). Live Walk now dims its HUD after 30s idle to save battery.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.5.0/App.ipa",
+          "size": 1399043,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.4.2",
           "date": "2026-07-10T10:40:00Z",
           "localizedDescription": "Mobility: if connecting to Apple Health fails, the exact error is now shown on screen, and a Reconnect Apple Health button was added at the bottom of the Mobility panel.",
@@ -88,10 +96,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.4.2",
-      "versionDate": "2026-07-10T10:40:00Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.4.2/App.ipa",
-      "size": 1318041,
+      "version": "1.5.0",
+      "versionDate": "2026-07-11T12:43:03Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.5.0/App.ipa",
+      "size": 1399043,
       "appPermissions": {
         "entitlements": ["com.apple.developer.healthkit"],
         "privacy": {
@@ -100,7 +108,7 @@
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off."
         }
       },
-      "versionDescription": "Apple Health Mobility. A new Mobility panel reads the gait metrics your iPhone already measures: walking steadiness with Apple's OK/Low/Very Low bands, walking speed, step length, double support, asymmetry, six-minute-walk estimate and stair speeds — months of history appear the moment you connect. Read-only, per-metric permission, your data never leaves the device. Entry tile in Insights."
+      "versionDescription": "Map intelligence: frequented-streets heatmap, route replay with pace-tinted playback, and auto route-matching that recognizes a repeated loop. Deeper intelligence: weather-vs-performance, personal distance forecast, monthly wrap card, and streak-reminder notifications (with an in-app explainer before the permission prompt). Live Walk now dims its HUD after 30s idle to save battery."
     }
   ]
 }
