@@ -16,6 +16,14 @@
       "category": "healthcare-fitness",
       "versions": [
         {
+          "version": "1.6.0",
+          "date": "2026-07-13T20:04:49Z",
+          "localizedDescription": "AI, powered by your own Gemini API key (add it in Profile). Insights gets an AI-written summary of your real stats. A new Coach screen lets you ask questions about your walk history, grounded only in your real data. Walk Reports can get a grounded AI comment on a photo you add. Nothing is sent anywhere unless you add a key, and it's never uploaded anywhere but Google's API.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.6.0/App.ipa",
+          "size": 1480948,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.5.0",
           "date": "2026-07-11T12:43:03Z",
           "localizedDescription": "Map intelligence: frequented-streets heatmap, route replay with pace-tinted playback, and auto route-matching that recognizes a repeated loop. Deeper intelligence: weather-vs-performance, personal distance forecast, monthly wrap card, and streak-reminder notifications (with an in-app explainer before the permission prompt). Live Walk now dims its HUD after 30s idle to save battery.",
@@ -96,10 +104,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.5.0",
-      "versionDate": "2026-07-11T12:43:03Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.5.0/App.ipa",
-      "size": 1399043,
+      "version": "1.6.0",
+      "versionDate": "2026-07-13T20:04:49Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.6.0/App.ipa",
+      "size": 1480948,
       "appPermissions": {
         "entitlements": ["com.apple.developer.healthkit"],
         "privacy": {
@@ -108,7 +116,7 @@
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off."
         }
       },
-      "versionDescription": "Map intelligence: frequented-streets heatmap, route replay with pace-tinted playback, and auto route-matching that recognizes a repeated loop. Deeper intelligence: weather-vs-performance, personal distance forecast, monthly wrap card, and streak-reminder notifications (with an in-app explainer before the permission prompt). Live Walk now dims its HUD after 30s idle to save battery."
+      "versionDescription": "AI, powered by your own Gemini API key (add it in Profile). Insights gets an AI-written summary of your real stats. A new Coach screen lets you ask questions about your walk history, grounded only in your real data. Walk Reports can get a grounded AI comment on a photo you add. Nothing is sent anywhere unless you add a key, and it's never uploaded anywhere but Google's API."
     }
   ]
 }
