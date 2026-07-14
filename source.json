@@ -16,6 +16,14 @@
       "category": "healthcare-fitness",
       "versions": [
         {
+          "version": "1.7.1",
+          "date": "2026-07-14T18:45:29Z",
+          "localizedDescription": "Bug fixes: notes list stacking left-only on-device instead of two columns (and a 3rd note becoming unresponsive) is fixed; a stray blue accent on the Walk screen is now warm amber to match the rest of the app; Dashboard widget lines/dots/ticks get their gold accent back; the widget tap-preview no longer looks flat. New: honest floors-climbed stat on Report, a GPS-degraded stride-estimate whisper, and haptic + spoken km cues on real km crossings (toggle in Profile). Dashboard and Insights are now visually consistent with Home (forest photo, liquid glass), and the Walk map's location marker was redesigned.",
+          "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.7.1/App.ipa",
+          "size": 1649261,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.7.0",
           "date": "2026-07-14T17:21:31Z",
           "localizedDescription": "ORI AI hub: chat, voice journaling, and photo/OCR understanding through your own Gemini key. Journal entries can be edited, get continuous follow-up thoughts, and can be summarized or rephrased with one tap. Home and Dashboard now sit over a real forest photo with calmer, more compact cards. Walk was redesigned with a lighter glass-style map, and a pace-jitter bug (pace swinging wildly while standing still) is fixed.",
@@ -112,19 +120,21 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.7.0",
-      "versionDate": "2026-07-14T17:21:31Z",
-      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.7.0/App.ipa",
-      "size": 1621412,
+      "version": "1.7.1",
+      "versionDate": "2026-07-14T18:45:29Z",
+      "downloadURL": "https://github.com/shivaaam27/glasswalk-dist/releases/download/v1.7.1/App.ipa",
+      "size": 1649261,
       "appPermissions": {
-        "entitlements": ["com.apple.developer.healthkit"],
+        "entitlements": [
+          "com.apple.developer.healthkit"
+        ],
         "privacy": {
           "NSMotionUsageDescription": "Counts your steps.",
           "NSLocationWhenInUseUsageDescription": "Maps your route.",
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Tracks with the screen off."
         }
       },
-      "versionDescription": "ORI AI hub: chat, voice journaling, and photo/OCR understanding through your own Gemini key. Journal entries can be edited, get continuous follow-up thoughts, and can be summarized or rephrased with one tap. Home and Dashboard now sit over a real forest photo with calmer, more compact cards. Walk was redesigned with a lighter glass-style map, and a pace-jitter bug (pace swinging wildly while standing still) is fixed."
+      "versionDescription": "Bug fixes: notes list stacking left-only on-device instead of two columns (and a 3rd note becoming unresponsive) is fixed; a stray blue accent on the Walk screen is now warm amber to match the rest of the app; Dashboard widget lines/dots/ticks get their gold accent back; the widget tap-preview no longer looks flat. New: honest floors-climbed stat on Report, a GPS-degraded stride-estimate whisper, and haptic + spoken km cues on real km crossings (toggle in Profile). Dashboard and Insights are now visually consistent with Home (forest photo, liquid glass), and the Walk map's location marker was redesigned."
     }
   ]
 }
